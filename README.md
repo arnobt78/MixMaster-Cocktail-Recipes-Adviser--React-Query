@@ -6,7 +6,7 @@
 
 MixMaster is a ReactVite Single-Page Application (SPA) that fetches cocktail recipes from the Cocktails DB API. It provides a seamless, client-side navigation experience using react-router-dom, tanstack/react-query, axios, responsive-web-design and styled-components for styling.
 
-**Online Live:** https://mixmaster-arnob.netlify.app/
+- **Online Live:** https://mixmaster-arnob.netlify.app/
 
 ---
 
