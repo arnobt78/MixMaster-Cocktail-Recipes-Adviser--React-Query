@@ -1,4 +1,4 @@
-## MixMaster Cocktail Recipes Adviser - React-Query Wewb App
+## MixMaster Cocktail Recipes Adviser - React-Query Web App
 
 <img width="1135" alt="Screenshot 2025-02-25 at 15 50 33" src="https://github.com/user-attachments/assets/c878eb2d-4886-46ba-97df-5ef71838916a" /><img width="1092" alt="Screenshot 2025-02-25 at 15 50 52" src="https://github.com/user-attachments/assets/d5d5c30d-9d44-4a90-a1f1-78eeaf1aacfe" /><img width="992" alt="Screenshot 2025-02-25 at 15 51 37" src="https://github.com/user-attachments/assets/1159851f-44f9-4e07-bedd-3b5d2dcd1fb9" /><img width="1057" alt="Screenshot 2025-02-25 at 15 51 55" src="https://github.com/user-attachments/assets/82025192-dfd7-4c3a-8fd6-941b88f42588" />
 
